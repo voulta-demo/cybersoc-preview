@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="cybersoc-mark-title cybersoc-mark-description">
   <title id="cybersoc-mark-title">CyberSOC</title>
   <desc id="cybersoc-mark-description">Una letra C abierta con un nodo digital.</desc>
-  <path d="M47 14H30C19.4 14 14 19.6 14 30v4c0 10.4 5.4 16 16 16h17" fill="none" stroke="#2563EB" stroke-width="8" stroke-linecap="round"/cybersoc-preview/>
-  <rect x="43" y="28" width="9" height="9" rx="2.5" fill="#60A5FA"/cybersoc-preview/>
+  <path d="M47 14H30C19.4 14 14 19.6 14 30v4c0 10.4 5.4 16 16 16h17" fill="none" stroke="#2563EB" stroke-width="8" stroke-linecap="round"/>
+  <rect x="43" y="28" width="9" height="9" rx="2.5" fill="#60A5FA"/>
 </svg>
